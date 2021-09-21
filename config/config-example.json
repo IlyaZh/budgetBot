@@ -1,0 +1,13 @@
+{
+    "TELEGRAM_API_TOKEN": "<API>",
+    "CHANNEL_LOGIN": "<CHANNEL>",
+
+    "MYSQL": {
+        "HOST":"localhost",
+        "PORT": 3306,
+        "USER": "",
+        "PASSWORD": "",
+        "TABLE_PREFIX": "",
+        "DATABASE": "BudgetBot"
+    }
+}
